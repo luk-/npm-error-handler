@@ -1,0 +1,18 @@
+{
+  "name": "npm-error-handler",
+  "version": "0.1.0",
+  "description": "npm's error handler utility",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "~1.3.11",
+    "npmlog": "~0.0.4",
+    "rimraf": "~2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me>",
+  "maintainers": ["Luke Arduini <luke.arduini@gmail.com"],
+  "license": "BSD-2-Clause"
+}
