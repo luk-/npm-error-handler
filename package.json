@@ -14,5 +14,9 @@
   },
   "author": "Isaac Z. Schlueter <i@izs.me>",
   "maintainers": ["Luke Arduini <luke.arduini@gmail.com"],
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luk-/npm-error-handler.git"
+  }
 }
